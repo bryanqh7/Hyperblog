@@ -6,6 +6,7 @@ Este es un mensaje para mi yo del futuro y para cualquiera que llegue aquí mien
 
 Este curso es muy completo
 Practico desde mi Mac del 2012
+Aprendiendo a programar a los 29 años
 
 ##### SIGUE ADELANTE SIGUE ADELANTE
 
