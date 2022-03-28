@@ -1,4 +1,4 @@
-# Hyperblog, un ejercicio del GITHUB
+# Hyperblog, un ejercicio de GITHUB
 
 Hola mundo, este es un ejercicio que realicé para el curso de [Git y Github](http://https://bit.ly/3JKZCjN "Git y Github") de **Platzi** en marzo de 2022.
 
